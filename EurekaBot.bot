@@ -1,0 +1,18 @@
+{
+    "name": "EurekaBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "dda55f00-6847-11e9-b194-1d7f40cd6d64",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/andrewditmer/Projects/EurekaBot/src/start_here/EurekaBot/EurekaBot.bot"
+}
